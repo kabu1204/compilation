@@ -1,14 +1,27 @@
 # INDEX
 
-[TOC]
+- [INDEX](#index)
+- [DOCUMENTS](#documents)
+- [Environment](#environment)
+- [DEMO](#demo)
+- [How to use](#how-to-use)
+  - [Exp1 Lexical scanner](#exp1-lexical-scanner)
+    - [Quick start](#quick-start)
+    - [Use it on your own language](#use-it-on-your-own-language)
+  - [Exp2 LR(1) analyzer](#exp2-lr1-analyzer)
+    - [Quick start](#quick-start-1)
+    - [Use it on your own language](#use-it-on-your-own-language-1)
+  - [ISSUES](#issues)
 
 # DOCUMENTS
 
-[SAMPLE语言的定义](./SIMPLE.MD)
+[SAMPLE语言的定义](./SAMPLE.MD)
 
-[记一次编译原理实验]()
+[记一次编译原理实验](https://yuchengye.top/记一次编译原理实验.html)
 
-[LR1 TABLE]()
+[LR1 TABLE](https://yuchengye.top/LR1Table.html)
+
+[我的静态站](https://yuchengye.top)
 
 ~~写README~~
 
@@ -84,5 +97,5 @@ ATTENTION: whenever you modify your grammar in G, don't forget to add new symbol
 
 ## ISSUES
 
-if you have any issues, find the contacts in [记一次编译原理实验]()
+if you have any issues, find the contacts in [记一次编译原理实验](https://yuchengye.top/记一次编译原理实验.html)
 
